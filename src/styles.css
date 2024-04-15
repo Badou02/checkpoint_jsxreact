@@ -1,0 +1,35 @@
+.card-custom {
+    width: 18rem;
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    
+  }
+  
+  .title-custom {
+    color: blue;
+    font-size: 1.25rem;
+  }
+  
+  .text-custom {
+    color: #333;
+  }
+  .contenainer {
+    text-align: center;
+   
+  }
+
+  body{
+    background: #53aad2;
+  }
+
+  .centered-card {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+.img{
+  width:  150px;
+  height: 150px;
+  top: 40px;
+}  
